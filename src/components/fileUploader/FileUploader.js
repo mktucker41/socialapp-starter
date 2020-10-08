@@ -63,7 +63,6 @@ class FileUploader extends React.Component {
               onChange={this.createFormData}
             />
           </div>
-
         </div>
       </div>
     );
